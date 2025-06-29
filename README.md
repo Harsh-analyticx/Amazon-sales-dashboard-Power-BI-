@@ -4,6 +4,9 @@ This repository contains a fully interactive and visually insightful *Amazon Sal
 
 ---
 ## 📸 Dashboard Preview
+## 📷 Screenshot
+
+![Amazon Global Sales Dashboard (Power BI)]( )
 
 ![Amazon Sales Dashboard]()
 
