@@ -5,7 +5,7 @@ This repository contains a fully interactive and visually insightful *Amazon Sal
 ---
 ## 📸 Dashboard Preview
 
-![Amazon Sales Dashboard](https://github.com/Harsh-analyticx/Amazon-sales-dashboard-Power-BI-/blob/main/Screenshot%202025-06-28%20230637.png)
+![Amazon Sales Dashboard]()
 
 ## 🧩 Dashboard Highlights
 
